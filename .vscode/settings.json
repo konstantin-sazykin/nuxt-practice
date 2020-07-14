@@ -1,0 +1,4 @@
+{
+  "prettier.bracketSpacing": false,
+  "vetur.format.defaultFormatter.html": "prettier"
+}
